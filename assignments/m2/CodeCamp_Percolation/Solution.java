@@ -6,6 +6,7 @@ import java.util.*;
  * Class for solution.
  */
 class Solution {
+    private Solution() { }
     /**.
      * { function_description }
      *
@@ -44,10 +45,10 @@ class Percolate {
      *
      * @param      size  The size
      */
-    Percolate(final int size) {
-        this.size = size;
-        grid = new boolean[size][size];
-        obj = new WeightedQuickUnionUF(size * size + 2);
+    Percolate(final int s) {
+        this.size = s;
+        grid = new boolean[s][s];
+        obj = new WeightedQuickUnionUF(s * s + 2);
     }
     /**.
      * { function_description }
