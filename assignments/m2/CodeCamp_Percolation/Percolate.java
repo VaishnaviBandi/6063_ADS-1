@@ -1,4 +1,3 @@
-
 /**.
  * Class for percolate.
  */
@@ -15,7 +14,7 @@ class Percolate {
      * { var_description }
      */
     private int size;
-    /**
+    /**.
      * Constructs the object.
      *
      * @param      size  The size
