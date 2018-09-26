@@ -1,9 +1,18 @@
 import java.util.Scanner;
 import java.util.Arrays;
+/**.
+ * { item_description }
+ */
 final class Solution {
-    private Solution() {
-
-    }
+	/**.
+	 * Constructs the object.
+	 */
+    private Solution() { }
+    /**.
+     * { function_description }
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         int count =  Integer.parseInt(sc.nextLine());
