@@ -4,9 +4,17 @@ import java.util.List;
 import java.util.Collections;
 
 final class Solution {
-    private Solution() {
-
-    }
+	/**
+	 * Constructs the object.
+	 */
+    private Solution() { }
+    /**
+     * { function_description }
+     *
+     * @param      arr   The arr
+     *
+     * @return     { description_of_the_return_value }
+     */
     static String getlow(final List arr) {
         String high = "";
         high = "" + arr.get(0);
@@ -17,6 +25,11 @@ final class Solution {
         }
         return high;
     }
+    /**
+     * { function_description }
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         int sizeA = sc.nextInt();
