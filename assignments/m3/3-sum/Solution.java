@@ -4,9 +4,9 @@ import java.util.Arrays;
  * { item_description }
  */
 final class Solution {
-	/**.
-	 * Constructs the object.
-	 */
+    /**.
+     * Constructs the object.
+     */
     private Solution() { }
     /**.
      * { function_description }
