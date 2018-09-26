@@ -2,13 +2,15 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
-
+/**.
+ * { item_description }
+ */
 final class Solution {
-	/**
-	 * Constructs the object.
-	 */
+    /**.
+     * Constructs the object.
+     */
     private Solution() { }
-    /**
+    /**.
      * { function_description }
      *
      * @param      arr   The arr
@@ -25,7 +27,7 @@ final class Solution {
         }
         return high;
     }
-    /**
+    /**.
      * { function_description }
      *
      * @param      args  The arguments
