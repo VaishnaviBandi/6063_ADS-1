@@ -14,7 +14,13 @@ class LinkedStackOfStrings {
      * Class for node.
      */
     private class Node {
+        /**
+         * { var_description }.
+         */
         char element;
+        /**
+         * { var_description }.
+         */
         Node nextAddress;
     }
     /**
@@ -69,7 +75,7 @@ public class Solution {
         int size = Integer.parseInt(sc.nextLine());
         for (int i = 0; i < size; i++) {
             String line = sc.next();
-            if(checkParanthesis(line)){
+            if (checkParanthesis(line)) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
@@ -91,8 +97,7 @@ public class Solution {
             char ch = s.charAt(i);
             if (ch == '(' || ch == '{' || ch == '[') {
                 obj.push(ch);
-            }
-            else {
+            } else {
                 if (obj.isEmpty()) {
                     return false;
                 }
