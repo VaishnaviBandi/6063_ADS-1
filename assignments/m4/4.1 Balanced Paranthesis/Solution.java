@@ -38,12 +38,20 @@ class LinkedStackOfStrings {
 		first.element = element;
 		first.nextAddress = old;
 	}
+	/**
+	 * { function_description }
+	 *
+	 * @return     { description_of_the_return_value }
+	 */
 	public char pop() {
 		char element = first.element;
 		first = first.nextAddress;
 		return element;
 	}
 }
+/**
+ * Class for solution.
+ */
 public class Solution {
 	public static void main(final String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -58,6 +66,13 @@ public class Solution {
 
 		}
 	}
+	/**
+	 * { function_description }
+	 *
+	 * @param      s     { parameter_description }
+	 *
+	 * @return     { description_of_the_return_value }
+	 */
 	public static boolean checkParanthesis(final String s) {
 		LinkedStackOfStrings obj = new LinkedStackOfStrings();
 		int sLength = s.length();
