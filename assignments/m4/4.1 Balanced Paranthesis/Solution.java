@@ -82,16 +82,19 @@ public class Solution {
 				obj.push(ch);
 			}
 			else {
-				if(obj.isEmpty()) return false;
+				if (obj.isEmpty()) {
+					return false;
+				}
 				if (ch == ')' && obj.top() == '(') {
 				obj.pop();
 			} else if (ch == '}' && obj.top() == '{') {
 				obj.pop();
 			} else if (ch == ']' && obj.top() == '[') {
 				obj.pop();
-			} else return false;
+			} else {
+				return false;
+			}
 		}
-
 	}
 	return obj.isEmpty();
 }
