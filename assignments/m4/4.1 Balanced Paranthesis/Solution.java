@@ -44,7 +44,7 @@ class LinkedStackOfStrings {
      *
      * @param      element  The element
      */
-    public void push(char element) {
+    public void push(final char element) {
         Node old = first;
         first = new Node();
         first.element = element;
@@ -65,6 +65,8 @@ class LinkedStackOfStrings {
  * Class for solution.
  */
 public class Solution {
+    private Solution() {
+    }
     /**
      * { function_description }.
      *
