@@ -17,11 +17,11 @@ class LinkedStackOfStrings {
         /**
          * { var_description }.
          */
-        char element;
+        private char element;
         /**
          * { var_description }.
          */
-        Node nextAddress;
+        private Node nextAddress;
     }
     /**
      * { function_description }.
@@ -64,7 +64,10 @@ class LinkedStackOfStrings {
 /**
  * Class for solution.
  */
-public class Solution {
+public final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
     }
     /**
