@@ -1,0 +1,7 @@
+Stack stack = new Stack();
+while (!q.isEmpty())
+	stack.push(q.dequeue());
+while (!stack.isEmpty())
+	q.enqueue(stack.pop());
+
+This code is used to print revere of the elements in queue.
