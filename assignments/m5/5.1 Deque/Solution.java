@@ -1,8 +1,19 @@
 import java.util.Scanner;
+/**
+ * Class for solution.
+ */
 public final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
     }
-    public static void main(final String[] args) {
+    /**
+     * {main function}.
+     *
+     * @param      args  The arguments
+     */
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Deque obj = new Deque();
         while (scan.hasNext()) {
