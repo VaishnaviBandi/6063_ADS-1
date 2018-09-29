@@ -1,6 +1,16 @@
 import java.util.Scanner;
+/**
+ * Class for add large numbers.
+ */
 class AddLargeNumbers {
-
+	AddLargeNumbers() { }
+	/**
+	 * { function_description }
+	 *
+	 * @param      number  The number
+	 *
+	 * @return     { description_of_the_return_value }
+	 */
 	public static LinkedList numberToDigits(String number) {
 		LinkedList obj = new LinkedList();
 		String[] digits = number.split("");
@@ -9,27 +19,41 @@ class AddLargeNumbers {
 		}
 		return obj;
 	}
+	/**
+	 * { function_description }
+	 *
+	 * @param      list  The list
+	 *
+	 * @return     { description_of_the_return_value }
+	 */
 	public static String digitsToNumber(LinkedList list) {
 		return list.toString();
 	}
-
+	/**
+	 * Adds large numbers.
+	 *
+	 * @param      list1  The list 1
+	 * @param      list2  The list 2
+	 *
+	 * @return     { description_of_the_return_value }
+	 */
 	public static LinkedList addLargeNumbers(LinkedList list1, LinkedList list2) {
 		LinkedList obj = new LinkedList();
 		int size = 0;
-		if (list1.getSize()> list2.getSize()){
+		if (list1.getSize() > list2.getSize()) {
 			size = list1.getSize();
-		} else{
+		} else {
 			size = list2.getSize();
 		}
-		int carry=0,num=0;
-		for(int i = size; i >0;i--){
-			num = list1.removeEnd()+ list2.removeEnd();
-			num = num +carry;
-			carry =num /10;
-			num =num %10;
+		int carry = 0, num = 0;
+		for (int i = size; i > 0; i--) {
+			num = list1.removeEnd() + list2.removeEnd();
+			num = num + carry;
+			carry = num / 10;
+			num = num % 10;
 			obj.addBeg(num);
 		}
-		if(carry> 0){
+		if (carry > 0) {
 			obj.addBeg(carry);
 		}
 		return obj;
