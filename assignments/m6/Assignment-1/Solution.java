@@ -1,10 +1,13 @@
 import java.util.Scanner;
-/**
+/**.
  * Class for add large numbers.
  */
 class AddLargeNumbers {
+	/**.
+	 * Constructs the object.
+	 */
 	AddLargeNumbers() { }
-	/**
+	/**.
 	 * { function_description }
 	 *
 	 * @param      number  The number
@@ -19,8 +22,8 @@ class AddLargeNumbers {
 		}
 		return obj;
 	}
-	/**
-	 * { function_description }
+	/**.
+	 * { fun.ction_description }
 	 *
 	 * @param      list  The list
 	 *
@@ -29,7 +32,7 @@ class AddLargeNumbers {
 	public static String digitsToNumber(final LinkedList list) {
 		return list.toString();
 	}
-	/**
+	/**.
 	 * Adds large numbers.
 	 *
 	 * @param      list1  The list 1
@@ -37,7 +40,8 @@ class AddLargeNumbers {
 	 *
 	 * @return     { description_of_the_return_value }
 	 */
-	public static LinkedList addLargeNumbers(final LinkedList list1, final LinkedList list2) {
+public static LinkedList addLargeNumbers(final LinkedList list1,
+	final LinkedList list2) {
 		LinkedList obj = new LinkedList();
 		int size = 0;
 		if (list1.getSize() > list2.getSize()) {
@@ -61,7 +65,11 @@ class AddLargeNumbers {
 }
 
 public class Solution {
-	/**
+	/**.
+	 * Constructs the object.
+	 */
+	Solution() { }
+	/**.
 	 * { function_description }
 	 *
 	 * @param      args  The arguments
