@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**.
  * Class for add large numbers.
  */
-class AddLargeNumbers {
+final class AddLargeNumbers {
     /**.
      * Constructs the object.
      */
@@ -50,7 +50,7 @@ public static LinkedList addLargeNumbers(final LinkedList list1,
             size = list2.getSize();
         }
         int carry = 0, num = 0;
-        int ten = 10;
+        final int ten = 10;
         for (int i = size; i > 0; i--) {
             num = list1.removeEnd() + list2.removeEnd();
             num = num + carry;
@@ -67,7 +67,7 @@ public static LinkedList addLargeNumbers(final LinkedList list1,
 /**
  * Class for solution.
  */
-public class Solution {
+final public class Solution {
     /**.
      * Constructs the object.
      */
