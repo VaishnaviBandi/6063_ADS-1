@@ -5,14 +5,20 @@ import java.util.Scanner;
 class AddLargeNumbers {
 
 	public static LinkedList numberToDigits(String number) {
-return null;
+		LinkedList obj = new LinkedList();
+		String[] digits = number.split("");
+		for (int i = 0; i < digits.length; i++) {
+			obj.addEnd(Integer.parseInt(digits[i]));
+		}
+		return obj;
+
 	}
 	public static String digitsToNumber(LinkedList list) {
 		return list.toString();
 	}
 
 	public static LinkedList addLargeNumbers(LinkedList list1, LinkedList list2) {
-return null;
+		return null;
 	}
 
 }
