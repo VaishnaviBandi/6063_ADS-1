@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-
-
 class AddLargeNumbers {
 
 	public static LinkedList numberToDigits(String number) {
@@ -11,16 +8,32 @@ class AddLargeNumbers {
 			obj.addEnd(Integer.parseInt(digits[i]));
 		}
 		return obj;
-
 	}
 	public static String digitsToNumber(LinkedList list) {
 		return list.toString();
 	}
 
 	public static LinkedList addLargeNumbers(LinkedList list1, LinkedList list2) {
-		return null;
+		LinkedList obj = new LinkedList();
+		int size = 0;
+		if (list1.getSize()> list2.getSize()){
+			size = list1.getSize();
+		} else{
+			size = list2.getSize();
+		}
+		int carry=0,num=0;
+		for(int i = size; i >0;i--){
+			num = list1.removeEnd()+ list2.removeEnd();
+			num = num +carry;
+			carry =num /10;
+			num =num %10;
+			obj.addBeg(num);
+		}
+		if(carry> 0){
+			obj.addBeg(carry);
+		}
+		return obj;
 	}
-
 }
 
 public class Solution {
