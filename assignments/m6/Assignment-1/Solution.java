@@ -67,7 +67,7 @@ public static LinkedList addLargeNumbers(final LinkedList list1,
 /**
  * Class for solution.
  */
-final public class Solution {
+public final class Solution {
     /**.
      * Constructs the object.
      */
