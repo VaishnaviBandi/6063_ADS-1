@@ -24,14 +24,14 @@ class Steque {
             top--;
         }
     }
-    public void enqueue(int value) {
-        if (top ==-1) {
+    public void enqueue(final int value) {
+        if (top == -1) {
             top++;
             rear++;
-            store[rear] =value;
+            store[rear] = value;
         } else {
-            for (int i =top;i>= 0;i--) {
-                store[i + 1] =store[i];
+            for (int i = top; i >= 0; i--) {
+                store[i + 1] = store[i];
             }
             top = top + 1;
             store[rear] = value;
