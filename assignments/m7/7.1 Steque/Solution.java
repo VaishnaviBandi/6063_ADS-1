@@ -33,8 +33,8 @@ class Steque {
             for (int i =top;i>= 0;i--) {
                 store[i + 1] =store[i];
             }
-            top= top + 1;
-            store[rear]= value;
+            top = top + 1;
+            store[rear] = value;
         }
     }
     public void printSteque() {
@@ -61,22 +61,22 @@ final class Solution {
         s.nextLine();
         int n = 0;
         String str = "";
-        while(n < testcases) {
+        while (n < testcases) {
             str = "";
             Steque mySteque = new Steque();
             while (s.hasNext()) {
                 String input = s.nextLine();
-                if (input.equals("")){
+                if (input.equals("")) {
                     break;
                 }
                 str += input + "\n";
             }
             String[] inputs = str.split("\n");
-            for (int i = 0; i < inputs.length; i++){
+            for (int i = 0; i < inputs.length; i++) {
                 if (inputs[i].contains("pop")) {
                     mySteque.pop();
                     mySteque.printSteque();
-                } else if (inputs[i].contains("push")){
+                } else if (inputs[i].contains("push")) {
                     String[] pushed = inputs[i].split(" ");
                     mySteque.push(Integer.parseInt(pushed[1]));
                     mySteque.printSteque();
