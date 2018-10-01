@@ -1,14 +1,34 @@
 import java.util.Scanner;
+/**
+ * Class for steque.
+ */
 class Steque {
+    /**
+     * Storing numbers.
+     */
     private int[] store;
+    /**
+     * Top value.
+     */
     private int top;
+    /**
+     * Rear value.
+     */
     private int rear;
+    /**
+     * Constructs the object.
+     */
     Steque() {
         final int hundred = 100;
         store = new int[hundred];
         top = -1;
         rear = -1;
     }
+    /**
+     * Pushes the value at the end.
+     *
+     * @param      value  The value
+     */
     public void push(final int value) {
         if (top == -1) {
             rear++;
@@ -16,6 +36,9 @@ class Steque {
         top = top + 1;
         store[top] = value;
     }
+    /**
+     * Removes the last element.
+     */
     public void pop() {
         if (top > -1) {
             if (top == 0) {
@@ -24,6 +47,11 @@ class Steque {
             top--;
         }
     }
+    /**
+     * Pushes the element at first position.
+     *
+     * @param      value  The value
+     */
     public void enqueue(final int value) {
         if (top == -1) {
             top++;
@@ -37,6 +65,9 @@ class Steque {
             store[rear] = value;
         }
     }
+    /**
+     * Prints out the stack.
+     */
     public void printSteque() {
         if (top <= -1) {
             System.out.print("Steque is empty.");
@@ -52,9 +83,21 @@ class Steque {
         System.out.println();
     }
 }
+/**
+ * Class for solution.
+ */
 final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
+        //Nothing happens here.
     }
+    /**
+     * Main function.
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner s = new Scanner(System.in);
         int testcases = s.nextInt();
