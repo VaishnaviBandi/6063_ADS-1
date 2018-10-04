@@ -1,0 +1,4 @@
+a[] = [E,A,S,Y,Q,U,E,S,T,I,O,N]
+sorting using the top-down mergesort.
+
+the array after using the top-down mergesort is a[] = [A,E,E,I,N,O,Q,S,S,T,U,Y].
