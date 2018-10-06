@@ -8,7 +8,15 @@ class Student {
 	int marks3;
 	int totalMarks;
 	String category;
-	Student(String name, int[] dob, int marks1, int marks2, int marks3, int totalMarks, String category) { }
+	Student(String name, int[] dob, int marks1, int marks2, int marks3, int totalMarks, String category) { 
+		this.name = name;
+        this.dob = dob;
+        this.marks1 = marks1;
+        this.marks2 = marks2;
+        this.marks3 = marks3;
+        this.totalMarks = totalMarks;
+        this.category = category;
+	}
 	public String getName() {
 		return name;
 	}
@@ -97,12 +105,11 @@ class Student {
 				jj--;
 				String[] line = sc.nextLine().split(",");
 				String[] vari = line[1].split("-");
-				int[] dobInt = new int[3];
-				dobInt[0] = Integer.parseInt(vari[2]);
-				dobInt[1] = Integer.parseInt(vari[2]);
-				dobInt[2] = Integer.parseInt(vari[2]);
-				Student s = new Student(line[0],
-				                        dobInt,
+				int[] nt = new int[3];
+				nt[0] = Integer.parseInt(vari[2]);
+				nt[1] = Integer.parseInt(vari[2]);
+				nt[2] = Integer.parseInt(vari[2]);
+				Student s = new Student(line[0], nt,
 				                        Integer.parseInt(line[2]),
 				                        Integer.parseInt(line[3]),
 				                        Integer.parseInt(line[4]),
