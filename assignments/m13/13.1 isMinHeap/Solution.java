@@ -1,11 +1,32 @@
 import java.util.Scanner;
+/**
+ * Class for minimum heap.
+ *
+ * @param      <E>   Generics Variables.
+ */
 class MinHeap<E> {
+    /**
+     * Comparable array.
+     */
     private Comparable[] data;
+    /**
+     * Size of array.
+     */
     private int size;
+    /**
+     * Constructs the object.
+     *
+     * @param      values  The values
+     */
     MinHeap(final Comparable[] values) {
         data = values;
         size = 0;
     }
+    /**
+     * Determines if heap.
+     *
+     * @return     True if heap, False otherwise.
+     */
     public Boolean isHeap() {
         for (int i = 0; i < (data.length - 1) / 2
             && (2 * i + 2 <= data.length - 1); i++) {
@@ -17,10 +38,21 @@ class MinHeap<E> {
         return true;
     }
 }
+/**
+ * Class for solution.
+ */
 final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
         //Nothing happens here.
     }
+    /**
+     * The main function.
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         String datatype = sc.nextLine();
