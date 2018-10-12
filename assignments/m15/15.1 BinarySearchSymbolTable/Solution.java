@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/**
+/**.
  * { item_description }
  */
 final class Solution {
@@ -49,3 +49,4 @@ final class Solution {
         }
     }
 }
+

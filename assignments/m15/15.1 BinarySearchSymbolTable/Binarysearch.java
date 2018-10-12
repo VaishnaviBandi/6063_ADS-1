@@ -1,4 +1,10 @@
 import java.util.Arrays;
+/**
+ * Class for binarysearch.
+ *
+ * @param      <Key>    The key
+ * @param      <Value>  The value
+ */
 public class Binarysearch<Key extends Comparable<Key>, Value> {
 	private Key[] keys;
     private Value[] vals;
