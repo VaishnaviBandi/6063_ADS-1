@@ -1,5 +1,8 @@
 import java.util.Scanner;
-public class Solution {
+/**
+ * { item_description }
+ */
+final class Solution {
     /**
      * @brief [brief description]
      * @details [long description]
