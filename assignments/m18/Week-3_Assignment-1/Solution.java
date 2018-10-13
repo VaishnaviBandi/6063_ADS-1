@@ -148,10 +148,10 @@ class Solution {
 
 
                 }
-                System.out.println("-------------------------------");
+                // System.out.println("-------------------------------");
 
                 sa.selectionSort();
-                System.out.println("-------------------------------");
+                // System.out.println("-------------------------------");
 
                 for (int k = 0; k < 5; k++) {
                     System.out.println(sa.stk[k].getName() + " "
