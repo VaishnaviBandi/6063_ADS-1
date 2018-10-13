@@ -1,10 +1,14 @@
-
 import java.util.Scanner;
 import java.util.ArrayList;
-
-class Stock{
+/**
+ * Class for stock.
+ */
+class Stock {
     String name;
     Double stock;
+    /**
+     * Constructs the object.
+     */
     Stock() {
 
     }
@@ -90,7 +94,7 @@ class Solution {
         BinarysearchST<String, Integer>(2);
         int t1 = t;
         sc.nextLine();
-        for (int i = 0; i<6; i++) {
+        for (int i = 0; i < 6; i++) {
             t = t1;
             if (i == 0) {
                 Minpq<String> minpq = new Minpq<String>();
@@ -105,10 +109,10 @@ class Solution {
                     minpq.insert(line[1]);
                     maxpq.insert(line[1]);
                 }
-                                // System.out.println("-------------------------------");
+                // System.out.println("-------------------------------");
 
                 sa.selectionSort();
-                                // System.out.println("-------------------------------");
+                // System.out.println("-------------------------------");
 
                 for (int k = 0; k < 5; k++) {
                     System.out.println(sa.stk[k].getName() + " "
@@ -119,13 +123,13 @@ class Solution {
 
                 System.out.println();
                 int arrsize = sa.getsize();
-                                for (int k = arrsize - 1; k >= arrsize - 5; k--) {
-    // System.out.println("-------------------------------");
+                for (int k = arrsize - 1; k >= arrsize - 5; k--) {
+                    // System.out.println("-------------------------------");
                     System.out.println(sa.stk[k].getName() + " "
                                        + sa.stk[k].getStock());
 
                 }
-                                // System.out.println("-------------------------------");
+                // System.out.println("-------------------------------");
 
                 System.out.println();
 
@@ -145,10 +149,10 @@ class Solution {
 
 
                 }
-                                System.out.println("-------------------------------");
+                System.out.println("-------------------------------");
 
                 sa.selectionSort();
-                                System.out.println("-------------------------------");
+                System.out.println("-------------------------------");
 
                 for (int k = 0; k < 5; k++) {
                     System.out.println(sa.stk[k].getName() + " "
@@ -169,7 +173,7 @@ class Solution {
         for (int i = 0; i < query; i++) {
             String[] line = sc.nextLine().split(",");
         }
-                        // System.out.println("-------------------------------");
+        // System.out.println("-------------------------------");
 
     }
 
