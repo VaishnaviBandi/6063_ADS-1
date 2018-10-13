@@ -157,7 +157,7 @@ class Solution {
                     System.out.println(sa.stk[k].getName() + " "
                                        + sa.stk[k].getStock());
                 }
-                // System.out.println();
+                System.out.println();
                 int arrsize = sa.getsize();
                 for (int k = arrsize - 1; k >= arrsize - 5; k--) {
                     System.out.println(sa.stk[k].getName() + " "
