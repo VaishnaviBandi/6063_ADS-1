@@ -8,6 +8,7 @@ class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int studentData = sc.nextInt();
+        // System.out.println("studentData");
         sc.nextLine();
         //System.out.println(data data data);
         SeparateChainingHashST<Integer, Student> schain = new SeparateChainingHashST<>();
@@ -25,20 +26,20 @@ class Solution {
         sc.nextLine();
         int k = 0;
         while (k < j) {
-            System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+            // System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
             String karray[] = sc.nextLine().split(" ");
             if (karray[2].equals("1")) {
-                System.out.println("ifff");
+                // System.out.println("ifff");
                 int key = Integer.parseInt(karray[1]);
                 if (schain.contains(key)) {
                     System.out.println(schain.get(key).stuName);
-                    System.out.println("@@@@@@@@@@@@");
+                    // System.out.println("@@@@@@@@@@@@");
                 } else {
                     System.out.println("Student doesn't exists...");
                 }
             }
             if (karray[2].equals("2")) {
-                System.out.println("nono@@@@@@@@@@@@");
+                // System.out.println("nono@@@@@@@@@@@@");
                 int key = Integer.parseInt(karray[1]);
                 if (schain.contains(key)) {
                     System.out.println(schain.get(key).stuMarks);
