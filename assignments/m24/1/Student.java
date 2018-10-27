@@ -1,11 +1,11 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 /**
  * Class for student.
  */
 
-class Student{
+class Student {
     /**.
      * { var_description }
      */
@@ -24,11 +24,17 @@ class Student{
      * @param      n     { parameter_description }
      * @param      m     { parameter_description }
      */
-    Student(String n, String m) {
+    Student(final String n, final String m) {
         this.stuName  = n;
         this.stuMarks = Double.parseDouble(m);
     }
 }
+/**
+ * Class for separate chaining hash st.
+ *
+ * @param      <Key>    The key
+ * @param      <Value>  The value
+ */
 class SeparateChainingHashST<Key, Value> {
     private static final int INIT_CAPACITY = 4;
 
@@ -173,7 +179,12 @@ class SeparateChainingHashST<Key, Value> {
     }
 
 }
-
+/**
+ * Class for sequential search st.
+ *
+ * @param      <Key>    The key
+ * @param      <Value>  The value
+ */
 class SequentialSearchST<Key, Value> {
     private int n;           // number of key-value pairs
     private Node first;      // the linked list of key-value pairs
@@ -312,6 +323,11 @@ class SequentialSearchST<Key, Value> {
         return queue;
     }
 }
+/**
+ * List of .
+ *
+ * @param      <Item>  The item
+ */
 class Queue<Item> implements Iterable<Item> {
     private Node<Item> first;    // beginning of queue
     private Node<Item> last;     // end of queue
