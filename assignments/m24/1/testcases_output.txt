@@ -1,0 +1,2851 @@
+########## Testcase 0: Failed ##########
+Expected Output: 
+Clark
+Rivest
+Abegg
+Fred
+Wayne
+Alice
+Bob
+John
+Your Output: 
+[Ljava.lang.String;@129a8472
+[Ljava.lang.String;@4c203ea1
+[Ljava.lang.String;@27f674d
+[Ljava.lang.String;@1d251891
+[Ljava.lang.String;@48140564
+[Ljava.lang.String;@58ceff1
+[Ljava.lang.String;@7c30a502
+[Ljava.lang.String;@49e4cb85
+[Ljava.lang.String;@2133c8f8
+[Ljava.lang.String;@43a25848
+[Ljava.lang.String;@3ac3fd8b
+[Ljava.lang.String;@5594a1b5
+[Ljava.lang.String;@6a5fc7f7
+[Ljava.lang.String;@3b6eb2ec
+[Ljava.lang.String;@1e643faf
+[Ljava.lang.String;@6e8dacdf
+[Ljava.lang.String;@7a79be86
+[Ljava.lang.String;@34ce8af7
+[Ljava.lang.String;@b684286
+[Ljava.lang.String;@880ec60
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Clark
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Rivest
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Abegg
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Fred
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Wayne
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Alice
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bob
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John
+@@@@@@@@@@@@
+----------------------------------------
+########## Testcase 1: Failed ##########
+Expected Output: 
+100.1
+100.0
+76.4
+78.2
+65.7
+85.6
+98.3
+88.3
+56.7
+65.7
+11.2
+45.4
+99.3
+Your Output: 
+[Ljava.lang.String;@129a8472
+[Ljava.lang.String;@4c203ea1
+[Ljava.lang.String;@27f674d
+[Ljava.lang.String;@1d251891
+[Ljava.lang.String;@48140564
+[Ljava.lang.String;@58ceff1
+[Ljava.lang.String;@7c30a502
+[Ljava.lang.String;@49e4cb85
+[Ljava.lang.String;@2133c8f8
+[Ljava.lang.String;@43a25848
+[Ljava.lang.String;@3ac3fd8b
+[Ljava.lang.String;@5594a1b5
+[Ljava.lang.String;@6a5fc7f7
+[Ljava.lang.String;@3b6eb2ec
+[Ljava.lang.String;@1e643faf
+[Ljava.lang.String;@6e8dacdf
+[Ljava.lang.String;@7a79be86
+[Ljava.lang.String;@34ce8af7
+[Ljava.lang.String;@b684286
+[Ljava.lang.String;@880ec60
+[Ljava.lang.String;@3f3afe78
+[Ljava.lang.String;@7f63425a
+[Ljava.lang.String;@36d64342
+[Ljava.lang.String;@39ba5a14
+[Ljava.lang.String;@511baa65
+[Ljava.lang.String;@340f438e
+[Ljava.lang.String;@30c7da1e
+[Ljava.lang.String;@5b464ce8
+[Ljava.lang.String;@57829d67
+[Ljava.lang.String;@19dfb72a
+[Ljava.lang.String;@17c68925
+[Ljava.lang.String;@7e0ea639
+[Ljava.lang.String;@3d24753a
+[Ljava.lang.String;@59a6e353
+[Ljava.lang.String;@7a0ac6e3
+[Ljava.lang.String;@71be98f5
+[Ljava.lang.String;@6fadae5d
+[Ljava.lang.String;@17f6480
+[Ljava.lang.String;@2d6e8792
+[Ljava.lang.String;@2812cbfa
+[Ljava.lang.String;@2acf57e3
+[Ljava.lang.String;@506e6d5e
+[Ljava.lang.String;@4411d970
+[Ljava.lang.String;@6442b0a6
+[Ljava.lang.String;@60f82f98
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+100.1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+100.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+76.4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+78.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+65.7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+85.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+98.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+88.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+56.7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+65.7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+99.3
+----------------------------------------
+########## Testcase 2: Failed ##########
+Expected Output: 
+Knuth
+100.0
+Clark
+78.2
+Abegg
+85.6
+Wayne
+88.3
+John
+65.7
+Hank
+13.3
+Jeannette Caines
+Student doesn't exists...
+Student doesn't exists...
+Student doesn't exists...
+Student doesn't exists...
+Your Output: 
+[Ljava.lang.String;@129a8472
+[Ljava.lang.String;@4c203ea1
+[Ljava.lang.String;@27f674d
+[Ljava.lang.String;@1d251891
+[Ljava.lang.String;@48140564
+[Ljava.lang.String;@58ceff1
+[Ljava.lang.String;@7c30a502
+[Ljava.lang.String;@49e4cb85
+[Ljava.lang.String;@2133c8f8
+[Ljava.lang.String;@43a25848
+[Ljava.lang.String;@3ac3fd8b
+[Ljava.lang.String;@5594a1b5
+[Ljava.lang.String;@6a5fc7f7
+[Ljava.lang.String;@3b6eb2ec
+[Ljava.lang.String;@1e643faf
+[Ljava.lang.String;@6e8dacdf
+[Ljava.lang.String;@7a79be86
+[Ljava.lang.String;@34ce8af7
+[Ljava.lang.String;@b684286
+[Ljava.lang.String;@880ec60
+[Ljava.lang.String;@3f3afe78
+[Ljava.lang.String;@7f63425a
+[Ljava.lang.String;@36d64342
+[Ljava.lang.String;@39ba5a14
+[Ljava.lang.String;@511baa65
+[Ljava.lang.String;@340f438e
+[Ljava.lang.String;@30c7da1e
+[Ljava.lang.String;@5b464ce8
+[Ljava.lang.String;@57829d67
+[Ljava.lang.String;@19dfb72a
+[Ljava.lang.String;@17c68925
+[Ljava.lang.String;@7e0ea639
+[Ljava.lang.String;@3d24753a
+[Ljava.lang.String;@59a6e353
+[Ljava.lang.String;@7a0ac6e3
+[Ljava.lang.String;@71be98f5
+[Ljava.lang.String;@6fadae5d
+[Ljava.lang.String;@17f6480
+[Ljava.lang.String;@2d6e8792
+[Ljava.lang.String;@2812cbfa
+[Ljava.lang.String;@2acf57e3
+[Ljava.lang.String;@506e6d5e
+[Ljava.lang.String;@4411d970
+[Ljava.lang.String;@6442b0a6
+[Ljava.lang.String;@60f82f98
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Knuth
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+100.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Clark
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+78.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Abegg
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+85.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Wayne
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+88.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+65.7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Hank
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+13.3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jeannette Caines
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Student doesn't exists...
+----------------------------------------
+########## Testcase 3: Failed ##########
+Expected Output: 
+7.213
+Michael Hale
+59.62
+Bradley Jackson
+57.53
+Madhur Jaffrey
+86.65
+Ruth H. Jacobs
+90.69
+74.62
+62.17
+Richard Jacoby
+Kady MacDonald Denton
+Kate Jacoby
+Charles B. Macdonald
+Laura Holmes Haddad
+36.4
+Debra W. Haffner
+98.13
+17.86
+21.24
+76.56
+50.75
+63.33
+35.14
+Kathryn Jacobi
+Brad Haddin
+Gerry Hadden
+Kathryn Ma
+30.97
+T. T. Macan
+Simon Jacobson
+Carla Jablonski
+24.51
+99.46
+27.87
+84.78
+Sammy Hagar
+87.26
+53.48
+Taylor Hackford
+Michael Hale
+Taylor Hackford
+36.24
+Katharina Hagena
+35.6
+Gracie MacGregor
+David Halberstam
+Michael Haag
+51.43
+Chuck Hagel
+87.16
+Sophie Jaff
+62.17
+6.627
+Katharina Hagena
+92.85
+Colin Jack
+88.48
+Margaret Peterson Haddix
+Bethany Hagen
+Aparna Jain
+Pamela Haag
+H3CZ
+18.28
+Olivia Mace
+45.32
+68.0
+35.6
+79.87
+Debra W. Haffner
+40.95
+Tracey Jackson
+Steve Hagen
+79.49
+Yossi Klein Halevi
+Nafisa Haji
+David Haig
+Mary Downing Hahn
+Roger Lea MacBride
+Steph Jagger
+Ian Jackman
+17.2
+35.74
+Guru Jagat
+4.893
+74.05
+Carrington MacDuffie
+35.81
+66.2
+72.2
+Tony Macaulay
+74.64
+Cynthia Jabar
+24.84
+Carla Hall
+Michael Hale
+72.19
+54.45
+53.48
+David Jacobs
+John Hornor Jacobs
+17.5
+53.48
+Ann-Marie MacDonald
+Jane MacDougall
+71.85
+Amanda Hall
+Shaili Jain M.D.
+43.91
+Peter Jackson
+Dana C. Jack
+Catherine Macaulay
+John Hornor Jacobs
+86.65
+Namita Jain
+David Halberstam
+Richard Jackson
+46.81
+45.39
+Peter Jackson
+Kellie Hailes
+Andrew Macdonald
+Howard Jacobson
+Bernie Mac
+10.42
+11.09
+45.39
+Al Jaffee
+Tessa Hadley
+A.N.D Haksar
+Mary MacCracken
+35.81
+Steph Jagger
+17.86
+Bradley Jackson
+Michele Jaffe
+Namita Jain
+Tracey Jackson
+87.26
+48.84
+Olivia Mace
+Shane Jacobson
+Don Hagen
+17.5
+3.391
+Thomas Hackett
+55.34
+Mick Jackson
+Sarah Jacoby
+11.58
+39.78
+14.77
+8.36
+Nafisa Haji
+Katharina Hagena
+Nasim Marie Jafry
+M MacCallum
+69.73
+Betty MacDonald
+Jessie Haas
+Andrew Macdonald
+87.6
+Robert Jackson
+35.74
+72.19
+48.67
+Daniel Hahn
+1.603
+Kristin Halbrook
+M MacCallum
+59.63
+15.56
+William Hague
+Taylor Hackford
+Debra W. Haffner
+35.74
+Heather Hach
+7.213
+Kathleen Hale
+Terrence J
+45.39
+Andrew Jacobson
+Julie Mac
+3.876
+Kinley MacGregor
+17.55
+Namita Jain
+92.85
+Heather Hach
+Michael Hale
+Dana C. Jack
+15.56
+24.84
+7.213
+Mary MacCracken
+93.95
+99.9
+Kevin MacAllister
+Simon Jacobson
+8.108
+Sheila Hale
+5.41
+65.06
+Sara MacDonald
+Andrew Macdonald
+87.26
+John W. Jacobs M.D.
+52.12
+Heather Hach
+Gene Hackman
+76.93
+Kennell Jackson
+40.1
+Mary MacCracken
+Carla Hall
+35.81
+Sophie Jaff
+26.54
+Joie Jager-Hyman
+Emma Jackson
+17.2
+Jeremy Jackson
+50.88
+43.91
+Olivia Mace
+David H. Hackworth
+96.83
+Rachel Jacobs
+Ruth H. Jacobs
+Dana Jacobi
+Bonnie MacBird
+Al Jaffee
+M MacCallum
+Lynn F. Jacobs
+Carrington MacDuffie
+82.63
+Cynthia Jabar
+24.34
+48.77
+90.74
+Marylin Hafner
+82.63
+84.43
+79.38
+72.19
+55.34
+17.5
+Gene Hackman
+26.33
+53.79
+Marilyn Hagerty
+Araminta Hall
+71.85
+David Jacobs
+79.58
+28.06
+Keach Hagey
+Araminta Hall
+87.16
+48.28
+Marilyn Hagerty
+Bethany Hagen
+Sara MacDonald
+10.31
+83.43
+17.5
+79.09
+30.97
+Kathleen Hale
+Laura Holmes Haddad
+Jessie Haas
+14.77
+David Haig
+11.63
+63.57
+89.61
+John Jacobs
+15.89
+Gene Hackman
+36.24
+19.32
+79.38
+Mary MacCracken
+Nate Jackson
+74.62
+William Hague
+76.56
+79.49
+Ruby Jackson
+7.213
+Saskia Maarleveld
+74.62
+45.39
+Tracey Jackson
+42.81
+79.49
+28.71
+Auston Habershaw
+Bruce Hale
+36.24
+54.45
+Rawi Hage
+Jo Jackson King
+Cynthia Jabar
+Richard Jacoby
+Andrew Macdonald
+Daniel Hahn
+24.4
+91.38
+45.39
+7.065
+74.05
+54.82
+Vicky Hales-Dutton
+Yossi Klein Halevi
+36.24
+Margaret Peterson Haddix
+19.32
+14.77
+62.17
+85.84
+75.0
+79.87
+Ellen Jackson
+Catherine Macaulay
+Peter Haining
+Annie Maccoby
+David Macfarlane
+10.42
+88.39
+Student doesn't exists...
+8.759
+40.1
+35.74
+51.43
+48.77
+Ann-Marie MacDonald
+87.6
+Ellie Macdonald
+Michael Hague
+11.58
+Ruby Jackson
+David Haig
+28.69
+53.48
+90.91
+Jennifer Haigh
+43.06
+92.0
+92.0
+Kevin MacAllister
+57.53
+Katharina Hagena
+50.88
+15.89
+Margaret Read MacDonald
+Carla Jablonski
+61.6
+Kate Jacoby
+Sylvie Haisman
+Tony Macaulay
+Saskia Maarleveld
+Kellie Hailes
+Steve Hagen
+H. JACKSON
+John Hale
+Korey Jackson
+3.336
+Betty Halbreich
+35.6
+Dana C. Jack
+Student doesn't exists...
+Elaine Hall
+Bonnie MacBird
+54.45
+61.6
+John Hornor Jacobs
+William Hague
+Marilyn Hagerty
+59.62
+Simon Jacobson
+98.87
+David Haig
+Myla Jackson
+46.81
+Guru Jagat
+June Hadley
+21.24
+Jeannette Haien
+76.48
+63.33
+40.43
+85.69
+Emma Jackson
+99.9
+35.74
+Kathryn Miller Haines
+93.97
+79.38
+Adele Jacques
+Baby Halder
+48.67
+75.18
+35.71
+Colin Jack
+28.06
+Andrew Jacobson
+8.759
+Carla Hall
+17.39
+Carla Jablonski
+52.12
+60.27
+Shelley Jackson
+Richard Jacoby
+Norm MacDonald
+6.364
+43.12
+David Halberstam
+17.54
+Nathan Hale
+11.63
+James B. Maas
+Kady MacDonald Denton
+Catherine Macaulay
+75.0
+Kate Jacoby
+Roger O.M.D. Jahnke
+63.33
+59.67
+Colin Jack
+David Macfarlane
+James Macdonald
+Richard Mabey
+79.58
+16.78
+Madhur Jaffrey
+32.81
+62.74
+17.39
+Jane MacDougall
+Bonnie MacBird
+14.77
+Heather Hach
+98.87
+Chuck Hagel
+90.69
+83.43
+John W. Jacobs
+David Hagedorn
+Todd Haberkorn
+Student doesn't exists...
+Mary Curran Hackett
+Catherine Macaulay
+Kinley MacGregor
+89.85
+Daniel Hahn
+Laura Holmes Haddad
+Joshilyn Jackson
+79.87
+89.85
+Kathryn Ma
+50.75
+John Hale
+3.876
+A.N.D Haksar
+16.5
+35.81
+48.67
+Keach Hagey
+89.61
+32.99
+39.78
+80.31
+Kristin Hahn
+53.48
+Richard Mabey
+Derek Jacobi
+Jerome A. Jackson
+5.41
+32.99
+45.09
+David Halberstam
+Bradley Jackson
+23.87
+47.48
+50.88
+William Hague
+Daniel Hahn
+T. T. Macan
+27.87
+91.92
+Fiona MacDonald
+87.26
+91.92
+Elaine Hall
+Robert Macfarlane
+John Hale
+53.79
+Your Output: 
+[Ljava.lang.String;@129a8472
+[Ljava.lang.String;@4c203ea1
+[Ljava.lang.String;@27f674d
+[Ljava.lang.String;@1d251891
+[Ljava.lang.String;@48140564
+[Ljava.lang.String;@58ceff1
+[Ljava.lang.String;@7c30a502
+[Ljava.lang.String;@49e4cb85
+[Ljava.lang.String;@2133c8f8
+[Ljava.lang.String;@43a25848
+[Ljava.lang.String;@3ac3fd8b
+[Ljava.lang.String;@5594a1b5
+[Ljava.lang.String;@6a5fc7f7
+[Ljava.lang.String;@3b6eb2ec
+[Ljava.lang.String;@1e643faf
+[Ljava.lang.String;@6e8dacdf
+[Ljava.lang.String;@7a79be86
+[Ljava.lang.String;@34ce8af7
+[Ljava.lang.String;@b684286
+[Ljava.lang.String;@880ec60
+[Ljava.lang.String;@3f3afe78
+[Ljava.lang.String;@7f63425a
+[Ljava.lang.String;@36d64342
+[Ljava.lang.String;@39ba5a14
+[Ljava.lang.String;@511baa65
+[Ljava.lang.String;@340f438e
+[Ljava.lang.String;@30c7da1e
+[Ljava.lang.String;@5b464ce8
+[Ljava.lang.String;@57829d67
+[Ljava.lang.String;@19dfb72a
+[Ljava.lang.String;@17c68925
+[Ljava.lang.String;@7e0ea639
+[Ljava.lang.String;@3d24753a
+[Ljava.lang.String;@59a6e353
+[Ljava.lang.String;@7a0ac6e3
+[Ljava.lang.String;@71be98f5
+[Ljava.lang.String;@6fadae5d
+[Ljava.lang.String;@17f6480
+[Ljava.lang.String;@2d6e8792
+[Ljava.lang.String;@2812cbfa
+[Ljava.lang.String;@2acf57e3
+[Ljava.lang.String;@67b64c45
+[Ljava.lang.String;@4411d970
+[Ljava.lang.String;@6442b0a6
+[Ljava.lang.String;@60f82f98
+[Ljava.lang.String;@35f983a6
+[Ljava.lang.String;@7f690630
+[Ljava.lang.String;@edf4efb
+[Ljava.lang.String;@2f7a2457
+[Ljava.lang.String;@566776ad
+[Ljava.lang.String;@6108b2d7
+[Ljava.lang.String;@1554909b
+[Ljava.lang.String;@6bf256fa
+[Ljava.lang.String;@6cd8737
+[Ljava.lang.String;@22f71333
+[Ljava.lang.String;@13969fbe
+[Ljava.lang.String;@6aaa5eb0
+[Ljava.lang.String;@3498ed
+[Ljava.lang.String;@1a407d53
+[Ljava.lang.String;@3d8c7aca
+[Ljava.lang.String;@5ebec15
+[Ljava.lang.String;@21bcffb5
+[Ljava.lang.String;@380fb434
+[Ljava.lang.String;@668bc3d5
+[Ljava.lang.String;@3cda1055
+[Ljava.lang.String;@7a5d012c
+[Ljava.lang.String;@3fb6a447
+[Ljava.lang.String;@79b4d0f
+[Ljava.lang.String;@6b2fad11
+[Ljava.lang.String;@79698539
+[Ljava.lang.String;@73f792cf
+[Ljava.lang.String;@2ed94a8b
+[Ljava.lang.String;@38082d64
+[Ljava.lang.String;@dfd3711
+[Ljava.lang.String;@42d3bd8b
+[Ljava.lang.String;@26ba2a48
+[Ljava.lang.String;@5f2050f6
+[Ljava.lang.String;@3b81a1bc
+[Ljava.lang.String;@64616ca2
+[Ljava.lang.String;@13fee20c
+[Ljava.lang.String;@4e04a765
+[Ljava.lang.String;@783e6358
+[Ljava.lang.String;@17550481
+[Ljava.lang.String;@735f7ae5
+[Ljava.lang.String;@180bc464
+[Ljava.lang.String;@1324409e
+[Ljava.lang.String;@2c6a3f77
+[Ljava.lang.String;@246ae04d
+[Ljava.lang.String;@62043840
+[Ljava.lang.String;@5315b42e
+[Ljava.lang.String;@2ef9b8bc
+[Ljava.lang.String;@5d624da6
+[Ljava.lang.String;@1e67b872
+[Ljava.lang.String;@60addb54
+[Ljava.lang.String;@3f2a3a5
+[Ljava.lang.String;@4cb2c100
+[Ljava.lang.String;@6fb554cc
+[Ljava.lang.String;@614c5515
+[Ljava.lang.String;@77b52d12
+[Ljava.lang.String;@2d554825
+[Ljava.lang.String;@68837a77
+[Ljava.lang.String;@6be46e8f
+[Ljava.lang.String;@3567135c
+[Ljava.lang.String;@327471b5
+[Ljava.lang.String;@4157f54e
+[Ljava.lang.String;@90f6bfd
+[Ljava.lang.String;@47f6473
+[Ljava.lang.String;@15975490
+[Ljava.lang.String;@6b143ee9
+[Ljava.lang.String;@1936f0f5
+[Ljava.lang.String;@6615435c
+[Ljava.lang.String;@4909b8da
+[Ljava.lang.String;@3a03464
+[Ljava.lang.String;@2d3fcdbd
+[Ljava.lang.String;@617c74e5
+[Ljava.lang.String;@6537cf78
+[Ljava.lang.String;@67b6d4ae
+[Ljava.lang.String;@34b7bfc0
+[Ljava.lang.String;@366e2eef
+[Ljava.lang.String;@6df97b55
+[Ljava.lang.String;@3cbbc1e0
+[Ljava.lang.String;@35fb3008
+[Ljava.lang.String;@7225790e
+[Ljava.lang.String;@54a097cc
+[Ljava.lang.String;@36f6e879
+[Ljava.lang.String;@5a61f5df
+[Ljava.lang.String;@3551a94
+[Ljava.lang.String;@531be3c5
+[Ljava.lang.String;@52af6cff
+[Ljava.lang.String;@735b478
+[Ljava.lang.String;@2c9f9fb0
+[Ljava.lang.String;@2096442d
+[Ljava.lang.String;@9f70c54
+[Ljava.lang.String;@234bef66
+[Ljava.lang.String;@737996a0
+[Ljava.lang.String;@61dc03ce
+[Ljava.lang.String;@50f8360d
+[Ljava.lang.String;@2cb4c3ab
+[Ljava.lang.String;@13c78c0b
+[Ljava.lang.String;@12843fce
+[Ljava.lang.String;@3dd3bcd
+[Ljava.lang.String;@97e1986
+[Ljava.lang.String;@26f67b76
+[Ljava.lang.String;@153f5a29
+[Ljava.lang.String;@7f560810
+[Ljava.lang.String;@69d9c55
+[Ljava.lang.String;@13a57a3b
+[Ljava.lang.String;@7ca48474
+[Ljava.lang.String;@337d0578
+[Ljava.lang.String;@59e84876
+[Ljava.lang.String;@61a485d2
+[Ljava.lang.String;@39fb3ab6
+[Ljava.lang.String;@6276ae34
+[Ljava.lang.String;@7946e1f4
+[Ljava.lang.String;@3c09711b
+[Ljava.lang.String;@5cc7c2a6
+[Ljava.lang.String;@b97c004
+[Ljava.lang.String;@4590c9c3
+[Ljava.lang.String;@32e6e9c3
+[Ljava.lang.String;@5056dfcb
+[Ljava.lang.String;@6574b225
+[Ljava.lang.String;@2669b199
+[Ljava.lang.String;@2344fc66
+[Ljava.lang.String;@458ad742
+[Ljava.lang.String;@5afa04c
+[Ljava.lang.String;@6ea12c19
+[Ljava.lang.String;@6a024a67
+[Ljava.lang.String;@7921b0a2
+[Ljava.lang.String;@174d20a
+[Ljava.lang.String;@66d2e7d9
+[Ljava.lang.String;@1efbd816
+[Ljava.lang.String;@6a2bcfcb
+[Ljava.lang.String;@4de8b406
+[Ljava.lang.String;@3c756e4d
+[Ljava.lang.String;@7c0e2abd
+[Ljava.lang.String;@48eff760
+[Ljava.lang.String;@402f32ff
+[Ljava.lang.String;@573f2bb1
+[Ljava.lang.String;@5ae9a829
+[Ljava.lang.String;@6d8a00e3
+[Ljava.lang.String;@548b7f67
+[Ljava.lang.String;@7ac7a4e4
+[Ljava.lang.String;@6d78f375
+[Ljava.lang.String;@50c87b21
+[Ljava.lang.String;@5f375618
+[Ljava.lang.String;@1810399e
+[Ljava.lang.String;@32d992b2
+[Ljava.lang.String;@215be6bb
+[Ljava.lang.String;@4439f31e
+[Ljava.lang.String;@5dfcfece
+[Ljava.lang.String;@23ceabc1
+[Ljava.lang.String;@5d5eef3d
+[Ljava.lang.String;@56f4468b
+[Ljava.lang.String;@6cc4c815
+[Ljava.lang.String;@3a82f6ef
+[Ljava.lang.String;@100fc185
+[Ljava.lang.String;@643b1d11
+[Ljava.lang.String;@2ef5e5e3
+[Ljava.lang.String;@36d4b5c
+[Ljava.lang.String;@6d00a15d
+[Ljava.lang.String;@51efea79
+[Ljava.lang.String;@5034c75a
+[Ljava.lang.String;@396a51ab
+[Ljava.lang.String;@51081592
+[Ljava.lang.String;@7f9a81e8
+[Ljava.lang.String;@9629756
+[Ljava.lang.String;@62ee68d8
+[Ljava.lang.String;@735b5592
+[Ljava.lang.String;@58651fd0
+[Ljava.lang.String;@4520ebad
+[Ljava.lang.String;@5419f379
+[Ljava.lang.String;@7dc7cbad
+[Ljava.lang.String;@d2cc05a
+[Ljava.lang.String;@4f933fd1
+[Ljava.lang.String;@548a9f61
+[Ljava.lang.String;@1753acfe
+[Ljava.lang.String;@7c16905e
+[Ljava.lang.String;@2a2d45ba
+[Ljava.lang.String;@2a5ca609
+[Ljava.lang.String;@20e2cbe0
+[Ljava.lang.String;@68be2bc2
+[Ljava.lang.String;@28feb3fa
+[Ljava.lang.String;@675d3402
+[Ljava.lang.String;@51565ec2
+[Ljava.lang.String;@482f8f11
+[Ljava.lang.String;@1593948d
+[Ljava.lang.String;@1b604f19
+[Ljava.lang.String;@7823a2f9
+[Ljava.lang.String;@4cc0edeb
+[Ljava.lang.String;@457e2f02
+[Ljava.lang.String;@5c7fa833
+[Ljava.lang.String;@39aeed2f
+[Ljava.lang.String;@724af044
+[Ljava.lang.String;@4678c730
+[Ljava.lang.String;@6767c1fc
+[Ljava.lang.String;@29ee9faa
+[Ljava.lang.String;@c038203
+[Ljava.lang.String;@cc285f4
+[Ljava.lang.String;@55f3ddb1
+[Ljava.lang.String;@8bd1b6a
+[Ljava.lang.String;@18be83e4
+[Ljava.lang.String;@cb5822
+[Ljava.lang.String;@4b9e13df
+[Ljava.lang.String;@2b98378d
+[Ljava.lang.String;@475530b9
+[Ljava.lang.String;@1d057a39
+[Ljava.lang.String;@26be92ad
+[Ljava.lang.String;@4c70fda8
+[Ljava.lang.String;@224edc67
+[Ljava.lang.String;@14acaea5
+[Ljava.lang.String;@46d56d67
+[Ljava.lang.String;@d8355a8
+[Ljava.lang.String;@59fa1d9b
+[Ljava.lang.String;@28d25987
+[Ljava.lang.String;@4501b7af
+[Ljava.lang.String;@523884b2
+[Ljava.lang.String;@5b275dab
+[Ljava.lang.String;@61832929
+[Ljava.lang.String;@29774679
+[Ljava.lang.String;@3ffc5af1
+[Ljava.lang.String;@5e5792a0
+[Ljava.lang.String;@26653222
+[Ljava.lang.String;@3532ec19
+[Ljava.lang.String;@68c4039c
+[Ljava.lang.String;@ae45eb6
+[Ljava.lang.String;@59f99ea
+[Ljava.lang.String;@27efef64
+[Ljava.lang.String;@6f7fd0e6
+[Ljava.lang.String;@47c62251
+[Ljava.lang.String;@3e6fa38a
+[Ljava.lang.String;@66a3ffec
+[Ljava.lang.String;@77caeb3e
+[Ljava.lang.String;@1e88b3c
+[Ljava.lang.String;@42d80b78
+[Ljava.lang.String;@3bfdc050
+[Ljava.lang.String;@1bce4f0a
+[Ljava.lang.String;@5e3a8624
+[Ljava.lang.String;@5c3bd550
+[Ljava.lang.String;@91161c7
+[Ljava.lang.String;@604ed9f0
+[Ljava.lang.String;@6a4f787b
+[Ljava.lang.String;@685cb137
+[Ljava.lang.String;@6a41eaa2
+[Ljava.lang.String;@7cd62f43
+[Ljava.lang.String;@6d4b1c02
+[Ljava.lang.String;@6093dd95
+[Ljava.lang.String;@5622fdf
+[Ljava.lang.String;@4883b407
+[Ljava.lang.String;@7d9d1a19
+[Ljava.lang.String;@39c0f4a
+[Ljava.lang.String;@1794d431
+[Ljava.lang.String;@42e26948
+[Ljava.lang.String;@57baeedf
+[Ljava.lang.String;@343f4d3d
+[Ljava.lang.String;@53b32d7
+[Ljava.lang.String;@5442a311
+[Ljava.lang.String;@548e7350
+[Ljava.lang.String;@1a968a59
+[Ljava.lang.String;@4667ae56
+[Ljava.lang.String;@77cd7a0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+7.213
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+59.62
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bradley Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+57.53
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Madhur Jaffrey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+86.65
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ruth H. Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+90.69
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.62
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+62.17
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kady MacDonald Denton
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kate Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Charles B. Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Laura Holmes Haddad
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+36.4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Debra W. Haffner
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+98.13
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.86
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+21.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+76.56
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+50.75
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+63.33
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.14
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathryn Jacobi
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Brad Haddin
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Gerry Hadden
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathryn Ma
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+30.97
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+T. T. Macan
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Simon Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Jablonski
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+24.51
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+99.46
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+27.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+84.78
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sammy Hagar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.26
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Taylor Hackford
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Taylor Hackford
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+36.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Katharina Hagena
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Gracie MacGregor
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Halberstam
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Haag
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+51.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Chuck Hagel
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.16
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sophie Jaff
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+62.17
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+6.627
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Katharina Hagena
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+92.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Colin Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+88.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Margaret Peterson Haddix
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bethany Hagen
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Aparna Jain
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Pamela Haag
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+H3CZ
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+18.28
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Olivia Mace
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.32
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+68.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Debra W. Haffner
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+40.95
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tracey Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Steve Hagen
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.49
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Yossi Klein Halevi
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Nafisa Haji
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Haig
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary Downing Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Roger Lea MacBride
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Steph Jagger
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ian Jackman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Guru Jagat
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+4.893
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.05
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carrington MacDuffie
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+66.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+72.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tony Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.64
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Cynthia Jabar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+24.84
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+72.19
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+54.45
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hornor Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ann-Marie MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jane MacDougall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+71.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Amanda Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Shaili Jain M.D.
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+43.91
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Peter Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Dana C. Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Catherine Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hornor Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+86.65
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Namita Jain
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Halberstam
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+46.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Peter Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kellie Hailes
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Howard Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bernie Mac
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+10.42
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.09
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Al Jaffee
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tessa Hadley
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+A.N.D Haksar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary MacCracken
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Steph Jagger
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.86
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bradley Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michele Jaffe
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Namita Jain
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tracey Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.26
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.84
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Olivia Mace
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Shane Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Don Hagen
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+3.391
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Thomas Hackett
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+55.34
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mick Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sarah Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.58
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+39.78
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+14.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+8.36
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Nafisa Haji
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Katharina Hagena
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Nasim Marie Jafry
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+M MacCallum
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+69.73
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Betty MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jessie Haas
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Robert Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+72.19
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.67
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Daniel Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+1.603
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kristin Halbrook
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+M MacCallum
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+59.63
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+15.56
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+William Hague
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Taylor Hackford
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Debra W. Haffner
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Heather Hach
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+7.213
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathleen Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Terrence J
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Julie Mac
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+3.876
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kinley MacGregor
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.55
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Namita Jain
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+92.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Heather Hach
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Dana C. Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+15.56
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+24.84
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+7.213
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary MacCracken
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+93.95
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+99.9
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kevin MacAllister
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Simon Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+8.108
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sheila Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+5.41
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+65.06
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sara MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.26
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John W. Jacobs M.D.
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+52.12
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Heather Hach
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Gene Hackman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+76.93
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kennell Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+40.1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary MacCracken
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sophie Jaff
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+26.54
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Joie Jager-Hyman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Emma Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jeremy Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+50.88
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+43.91
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Olivia Mace
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David H. Hackworth
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+96.83
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Rachel Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ruth H. Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Dana Jacobi
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bonnie MacBird
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Al Jaffee
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+M MacCallum
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Lynn F. Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carrington MacDuffie
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+82.63
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Cynthia Jabar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+24.34
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+90.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Marylin Hafner
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+82.63
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+84.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.38
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+72.19
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+55.34
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Gene Hackman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+26.33
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.79
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Marilyn Hagerty
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Araminta Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+71.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.58
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+28.06
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Keach Hagey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Araminta Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.16
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.28
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Marilyn Hagerty
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bethany Hagen
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sara MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+10.31
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+83.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.09
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+30.97
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathleen Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Laura Holmes Haddad
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jessie Haas
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+14.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Haig
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.63
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+63.57
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+89.61
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+15.89
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Gene Hackman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+36.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+19.32
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.38
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary MacCracken
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Nate Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.62
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+William Hague
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+76.56
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.49
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ruby Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+7.213
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Saskia Maarleveld
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.62
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tracey Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+42.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.49
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+28.71
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Auston Habershaw
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bruce Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+36.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+54.45
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Rawi Hage
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jo Jackson King
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Cynthia Jabar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Daniel Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+24.4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+91.38
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+7.065
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+74.05
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+54.82
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Vicky Hales-Dutton
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Yossi Klein Halevi
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+36.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Margaret Peterson Haddix
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+19.32
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+14.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+62.17
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+85.84
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+75.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ellen Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Catherine Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Peter Haining
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Annie Maccoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Macfarlane
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+10.42
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+88.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+8.759
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+40.1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+51.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ann-Marie MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ellie Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Michael Hague
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.58
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Ruby Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Haig
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+28.69
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+90.91
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jennifer Haigh
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+43.06
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+92.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+92.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kevin MacAllister
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+57.53
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Katharina Hagena
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+50.88
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+15.89
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Margaret Read MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Jablonski
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+61.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kate Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Sylvie Haisman
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Tony Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Saskia Maarleveld
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kellie Hailes
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Steve Hagen
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+H. JACKSON
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Korey Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+3.336
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Betty Halbreich
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Dana C. Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Elaine Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bonnie MacBird
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+54.45
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+61.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hornor Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+William Hague
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Marilyn Hagerty
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+59.62
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Simon Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+98.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Haig
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Myla Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+46.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Guru Jagat
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+June Hadley
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+21.24
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jeannette Haien
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+76.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+63.33
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+40.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+85.69
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Emma Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+99.9
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathryn Miller Haines
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+93.97
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.38
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Adele Jacques
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Baby Halder
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.67
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+75.18
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.71
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Colin Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+28.06
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Andrew Jacobson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+8.759
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Carla Jablonski
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+52.12
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+60.27
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Shelley Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Norm MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+6.364
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+43.12
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Halberstam
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.54
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Nathan Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+11.63
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+James B. Maas
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kady MacDonald Denton
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Catherine Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+75.0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kate Jacoby
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Roger O.M.D. Jahnke
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+63.33
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+59.67
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Colin Jack
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Macfarlane
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+James Macdonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Mabey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.58
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+16.78
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Madhur Jaffrey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+32.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+62.74
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+17.39
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jane MacDougall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bonnie MacBird
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+14.77
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Heather Hach
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+98.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Chuck Hagel
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+90.69
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+83.43
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John W. Jacobs
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Hagedorn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Todd Haberkorn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+Student doesn't exists...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Mary Curran Hackett
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Catherine Macaulay
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kinley MacGregor
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+89.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Daniel Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Laura Holmes Haddad
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Joshilyn Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+79.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+89.85
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kathryn Ma
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+50.75
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+3.876
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+A.N.D Haksar
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+16.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+35.81
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+48.67
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Keach Hagey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+89.61
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+32.99
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+39.78
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+80.31
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Kristin Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Richard Mabey
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Derek Jacobi
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Jerome A. Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+5.41
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+32.99
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+45.09
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+David Halberstam
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Bradley Jackson
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+23.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+47.48
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+50.88
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+William Hague
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Daniel Hahn
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+T. T. Macan
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+27.87
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+91.92
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Fiona MacDonald
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+87.26
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+91.92
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Elaine Hall
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+Robert Macfarlane
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ifff
+John Hale
+@@@@@@@@@@@@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+nono@@@@@@@@@@@@
+53.79
+----------------------------------------
