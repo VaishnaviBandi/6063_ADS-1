@@ -1,11 +1,29 @@
 import java.util.Scanner;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
+/**
+ * Class for student.
+ */
 
-class Student {
+class Student{
+    /**.
+     * { var_description }
+     */
     String stuName;
+    /**.
+     * { var_description }
+     */
     double stuMarks;
+    /**
+     * Constructs the object.
+     */
     Student () { }
+    /**
+     * Constructs the object.
+     *
+     * @param      n     { parameter_description }
+     * @param      m     { parameter_description }
+     */
     Student(String n, String m) {
         this.stuName  = n;
         this.stuMarks = Double.parseDouble(m);
@@ -17,7 +35,6 @@ class SeparateChainingHashST<Key, Value> {
     private int n;                                // number of key-value pairs
     private int m;                                // hash table size
     private SequentialSearchST<Key, Value>[] st;  // array of linked-list symbol tables
-
 
     /**
      * Initializes an empty symbol table.
