@@ -17,7 +17,7 @@ class Student {
     /**
      * Constructs the object.
      */
-    Student () { }
+    Student() { }
     /**
      * Constructs the object.
      *
@@ -36,10 +36,21 @@ class Student {
  * @param      <Value>  The value
  */
 class SeparateChainingHashST<Key, Value> {
+    /**
+     * { var_description }
+     */
     private static final int INIT_CAPACITY = 4;
-
-    private int n;                                // number of key-value pairs
-    private int m;                                // hash table size
+/**
+ * { var_description }
+ */
+    private int n;
+    /**
+     * { item_description }
+     */// number of key-value pairs
+    private int m;  
+    /**
+     * { item_description }
+     */// hash table size
     private SequentialSearchST<Key, Value>[] st;  // array of linked-list symbol tables
 
     /**
@@ -186,14 +197,37 @@ class SeparateChainingHashST<Key, Value> {
  * @param      <Value>  The value
  */
 class SequentialSearchST<Key, Value> {
+    /**
+     * { var_description }
+     */
     private int n;           // number of key-value pairs
+    /**
+     * { var_description }
+     */
     private Node first;      // the linked list of key-value pairs
 
     // a helper linked list data type
+    
     private class Node {
+        /**
+         * { var_description }
+         */
         private Key key;
+        /**
+         * { var_description }
+         */
         private Value val;
+        /**
+         * { var_description }
+         */
         private Node next;
+        /**
+         * Constructs the object.
+         *
+         * @param      key   The key
+         * @param      val   The value
+         * @param      next  The next
+         */
 
         public Node(Key key, Value val, Node next)  {
             this.key  = key;
@@ -330,12 +364,24 @@ class SequentialSearchST<Key, Value> {
  */
 class Queue<Item> implements Iterable<Item> {
     private Node<Item> first;    // beginning of queue
+    /**
+     * { var_description }
+     */
     private Node<Item> last;     // end of queue
+    /**
+     * { var_description }
+     */
     private int n;               // number of elements on queue
 
     // helper linked list class
     private static class Node<Item> {
+        /**
+         * { var_description }
+         */
         private Item item;
+        /**
+         * { var_description }
+         */
         private Node<Item> next;
     }
 
@@ -431,16 +477,35 @@ class Queue<Item> implements Iterable<Item> {
     }
 
     // an iterator, doesn't implement remove() since it's optional
+    
     private class ListIterator<Item> implements Iterator<Item> {
+        /**
+         * { var_description }
+         */
         private Node<Item> current;
-
+/**
+ * Constructs the object.
+ *
+ * @param      first  The first
+ */
         public ListIterator(Node<Item> first) {
             current = first;
         }
-
+/**
+ * Determines if it has next.
+ *
+ * @return     True if has next, False otherwise.
+ */
         public boolean hasNext()  { return current != null;                     }
+        /**
+         * { function_description }
+         */
         public void remove()      { throw new UnsupportedOperationException();  }
-
+/**
+ * { function_description }
+ *
+ * @return     { description_of_the_return_value }
+ */
         public Item next() {
             if (!hasNext()) throw new NoSuchElementException();
             Item item = current.item;
